@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SethRollins2k19/ToDo.git/static/css/main.8ac506ad.chunk.css",
-    "main.js": "/SethRollins2k19/ToDo.git/static/js/main.92993d0b.chunk.js",
-    "main.js.map": "/SethRollins2k19/ToDo.git/static/js/main.92993d0b.chunk.js.map",
-    "runtime-main.js": "/SethRollins2k19/ToDo.git/static/js/runtime-main.add648a6.js",
-    "runtime-main.js.map": "/SethRollins2k19/ToDo.git/static/js/runtime-main.add648a6.js.map",
-    "static/js/2.579f9201.chunk.js": "/SethRollins2k19/ToDo.git/static/js/2.579f9201.chunk.js",
-    "static/js/2.579f9201.chunk.js.map": "/SethRollins2k19/ToDo.git/static/js/2.579f9201.chunk.js.map",
-    "index.html": "/SethRollins2k19/ToDo.git/index.html",
-    "precache-manifest.69459a27ac5b6c836b71bbf6b24a89d6.js": "/SethRollins2k19/ToDo.git/precache-manifest.69459a27ac5b6c836b71bbf6b24a89d6.js",
-    "service-worker.js": "/SethRollins2k19/ToDo.git/service-worker.js",
-    "static/css/main.8ac506ad.chunk.css.map": "/SethRollins2k19/ToDo.git/static/css/main.8ac506ad.chunk.css.map",
-    "static/js/2.579f9201.chunk.js.LICENSE.txt": "/SethRollins2k19/ToDo.git/static/js/2.579f9201.chunk.js.LICENSE.txt"
+    "main.css": "/ToDo.git/static/css/main.8ac506ad.chunk.css",
+    "main.js": "/ToDo.git/static/js/main.959557eb.chunk.js",
+    "main.js.map": "/ToDo.git/static/js/main.959557eb.chunk.js.map",
+    "runtime-main.js": "/ToDo.git/static/js/runtime-main.c3fb32d8.js",
+    "runtime-main.js.map": "/ToDo.git/static/js/runtime-main.c3fb32d8.js.map",
+    "static/js/2.579f9201.chunk.js": "/ToDo.git/static/js/2.579f9201.chunk.js",
+    "static/js/2.579f9201.chunk.js.map": "/ToDo.git/static/js/2.579f9201.chunk.js.map",
+    "index.html": "/ToDo.git/index.html",
+    "precache-manifest.585a3337be95b9ed5190a0a8297275e1.js": "/ToDo.git/precache-manifest.585a3337be95b9ed5190a0a8297275e1.js",
+    "service-worker.js": "/ToDo.git/service-worker.js",
+    "static/css/main.8ac506ad.chunk.css.map": "/ToDo.git/static/css/main.8ac506ad.chunk.css.map",
+    "static/js/2.579f9201.chunk.js.LICENSE.txt": "/ToDo.git/static/js/2.579f9201.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.add648a6.js",
+    "static/js/runtime-main.c3fb32d8.js",
     "static/js/2.579f9201.chunk.js",
     "static/css/main.8ac506ad.chunk.css",
-    "static/js/main.92993d0b.chunk.js"
+    "static/js/main.959557eb.chunk.js"
   ]
 }
