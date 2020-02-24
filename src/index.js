@@ -7,11 +7,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import rootReducer from "./reducers/todoReducer";
-// import rootReducer from "./reducers/todoReducer";
-// import {PlusMinusReducer} from "./reducers/PlusMinusReducer";
+
 const store = createStore(rootReducer,applyMiddleware(thunkMiddleware))
-// const store = createStore(rootReducer)
-// const store = createStore(PlusMinusReducer)
+
 ReactDOM.render(
     <Provider store={store}>
             <App/>
